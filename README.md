@@ -1,2 +1,14 @@
-# k-raft
-A Construction set. Made of flat pieces. 3D-printer friendly. Simple and easy to use.
+# K-raft
+##Features
+- One main part.
+- One interlock type.
+- 3D-printer-friendly:
+    - Tolerant to +/- 0.3 mm geometry distortions.
+    - Parts are flat and can be printed without supports.
+    - Parts' deformations are aligned to printing layers.
+- Injection molding friendly.
+- Assembled models are empty-shelled.\
+This makes compartments for
+    - motors,
+    - batteries,
+    - control circuits in there.
