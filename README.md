@@ -1,5 +1,7 @@
 # K-raft
-##Features
+![Main Part](https://github.com/karol11/k-raft/blob/master/images/main.png)
+
+## Features
 - One main part.
 - One interlock type.
 - 3D-printer-friendly:
